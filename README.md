@@ -17,7 +17,7 @@ free-vpn-affiliate-nodes-poo-share-nodes-earn-cash
 > 
 > 🔗 **快速注册直达（自动带邀请码）**：[点击立即前往官网注册](https://haovpn.xyz)  
 > 📥 **即刻体验订阅源**：`https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`
-
+如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---
 
 ## 💎 如何参与邀请与赚取奖励？
@@ -55,7 +55,7 @@ free-vpn-affiliate-nodes-poo-share-nodes-earn-cash
 科学上网返利, 免费翻墙梯子, 节点推广分成, 机场跑路补偿
 </details>
 ```[cite: 1, 3]
----
+---如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 
 # 🌐 Free High-Speed Proxy Nodes & Developer Rewards (Daily Updated)
 
