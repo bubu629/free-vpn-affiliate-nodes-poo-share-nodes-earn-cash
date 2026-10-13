@@ -1,4 +1,4 @@
-# free-vpn-affiliate-nodes-poo-share-nodes-earn-cash
+free-vpn-affiliate-nodes-poo-share-nodes-earn-cash
 主打“自用免费 + 分享赚流量与现金”，吸引有推广渠道的羊毛党与社群群主。
 # 💰 Free Nodes & Affiliate Rewards | 免费高速节点与推广奖励计划
 
@@ -16,7 +16,7 @@
 > - 📈 **被动裂变**：邀请好友加入，后续可持续累计佣金与流量奖励
 > 
 > 🔗 **快速注册直达（自动带邀请码）**：[点击立即前往官网注册](https://haovpn.xyz)  
-> 📥 **即刻体验订阅源**：`https://haovpn.xyz/s/01046da34d021c1d30c723be5092070b`
+> 📥 **即刻体验订阅源**：`https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`
 
 ---
 
@@ -74,7 +74,7 @@ High-speed, stable, and uncapped proxy nodes tailored for developers, researcher
 > 
 > 🔗 **Official Portal**: [Register at haovpn.xyz](https://haovpn.xyz) *(Use Invite Code: `cbT7Rfxg`)*[cite: 3]  
 > 📥 **Direct Test Subscription**:  
-> `https://haovpn.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
+> `https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 
 ---
 
