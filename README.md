@@ -3,12 +3,12 @@ free-vpn-affiliate-nodes-poo-share-nodes-earn-cash
 # 💰 Free Nodes & Affiliate Rewards | 免费高速节点与推广奖励计划
 
 不仅提供全协议免费高速节点，还开放专属合伙人计划：自用享受高速带宽，邀请好友更可获得持续流量奖励与现金佣金提现！
-
+官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ---
 
 > ### 🎁 专属邀请注册福利：领 200G 流量 + 开启推广收益
 > 
-> 使用专属邀请通道注册，即可立即激活专属开发者权益：
+> 使用专属邀请通道注册，即可立即激活专属开发者权益：官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 > 
 > - ⚡ **注册即赠**：免费领取 **200 GB** 不限速高速流量包
 > - 🔑 **专属邀请码**：`cbT7Rfxg`（注册时填入确保获得完整新手权益）
@@ -18,7 +18,7 @@ free-vpn-affiliate-nodes-poo-share-nodes-earn-cash
 > 🔗 **快速注册直达（自动带邀请码）**：[点击立即前往官网注册](https://haovpn.xyz)  
 > 📥 **即刻体验订阅源**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 💎 如何参与邀请与赚取奖励？
 
