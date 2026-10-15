@@ -1,11 +1,13 @@
 free-vpn-affiliate-nodes-poo-share-nodes-earn-cash
 主打“自用免费 + 分享赚流量与现金”，吸引有推广渠道的羊毛党与社群群主。
 # 💰 Free Nodes & Affiliate Rewards | 免费高速节点与推广奖励计划
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 不仅提供全协议免费高速节点，还开放专属合伙人计划：自用享受高速带宽，邀请好友更可获得持续流量奖励与现金佣金提现！
 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ---
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 > ### 🎁 专属邀请注册福利：领 200G 流量 + 开启推广收益
 > 
 > 使用专属邀请通道注册，即可立即激活专属开发者权益：官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
