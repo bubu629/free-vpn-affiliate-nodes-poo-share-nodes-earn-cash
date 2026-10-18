@@ -11,7 +11,8 @@ free-vpn-affiliate-nodes-poo-share-nodes-earn-cash
 > ### 🎁 专属邀请注册福利：领 200G 流量 + 开启推广收益
 > 
 > 使用专属邀请通道注册，即可立即激活专属开发者权益：官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
-> 
+> > 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 > - ⚡ **注册即赠**：免费领取 **200 GB** 不限速高速流量包
 > - 🔑 **专属邀请码**：`cbT7Rfxg`（注册时填入确保获得完整新手权益）
 > - 💸 **现金佣金提现**：享受高达 **10% 佣金比例**，收益支持随时划转或申请提现
@@ -23,7 +24,8 @@ free-vpn-affiliate-nodes-poo-share-nodes-earn-cash
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 💎 如何参与邀请与赚取奖励？
-
+> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 1. **注册账号**：进入官网注册并使用邀请码 `cbT7Rfxg` 完成验证，领取 200G 基础套餐。
 2. **生成专属链接**：登录后台进入「我的邀请」页面，点击生成您自己的专属推广链接或邀请码。
 3. **分享赚收益**：
