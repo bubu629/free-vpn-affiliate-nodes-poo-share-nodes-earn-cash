@@ -1,30 +1,3 @@
-free-vpn-affiliate-nodes-poo-share-nodes-earn-cash
-主打“自用免费 + 分享赚流量与现金”，吸引有推广渠道的羊毛党与社群群主。
-
-> ⚠️ **高阶用户注意：为什么换了节点，Claude / ChatGPT / 跨境店铺还是被封？**
-> 
-> 普通 VPN 仅改变网络出口，无法掩盖您本地电脑的底层硬件指纹与代理协议特征。如果您从事以下**高风控业务**，强烈建议升级使用我们的姐妹项目 **[MacHub — 加拿大原生 Mac mini 独享物理机](https://machub.co/)**：
-> * 🤖 **AI 编程防封**：原生加拿大本地宽带 + 真实 Apple 硬件，100% 告别 Claude / Cursor 封号与验证码。
-> * 🛍️ **跨境与多账号防关联**：Apple Developer 开发者账号、Stripe/PayPal 离岸网银、TikTok 矩阵物理级安全隔离。
-> * ⚡ **远程算力与 iOS 打包**：独享 M4/M6 芯片物理机，全权限 SSH/远程桌面秒连，测试机仅需 **$10/月起**！
-> 
-> 👉 **[点击前往 MacHub 官网选配](https://machub.co/)** | 💬 **[点击在 WhatsApp 咨询技术工程师](https://api.whatsapp.com/send?phone=17052807570)**
-
-
-# 💰 Free Nodes & Affiliate Rewards | 免费高速节点与推广奖励计划
-* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
- * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
-不仅提供全协议免费高速节点，还开放专属合伙人计划：自用享受高速带宽，邀请好友更可获得持续流量奖励与现金佣金提现！
-官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
----
-* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
- * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
-> ### 🎁 专属邀请注册福利：领 200G 流量 + 开启推广收益
-> 
-
-
-
-
 # 🚀 HaoVPN — 极简高速 Android 专属客户端 (v1.0.2)
 
 [![Latest Release](https://img.shields.io/badge/Release-v1.0.2-00D4FF?style=for-the-badge&logo=github)](https://github.com/bubu629/haovpn-releases/releases/tag/v1%2C0%2C2)
