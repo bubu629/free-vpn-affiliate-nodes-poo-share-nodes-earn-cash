@@ -44,3 +44,52 @@
 ---
 
 > **提示**：如遇浏览器下载拦截，请允许保存 APK 文件；Android 安装时若提示「未知来源应用」，允许本次安装即可。
+<div align="center">
+
+# ⚡ DropDesk — Telegram Native Digital Store
+
+**Instant Digital Goods & Automated Delivery Powered by Telegram Stars**  
+**Telegram 原生数字商品商店 · 支持 Stars 支付 · 24/7 全自动秒发**
+
+[![Launch Bot](https://img.shields.io/badge/Telegram-Open%20DropDesk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DropDesk629bot)
+[![Web Preview](https://img.shields.io/badge/Web-Preview-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://bubu629.github.io/dropdesk/)
+[![Payment](https://img.shields.io/badge/Payment-Telegram%20Stars-FFB800?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DropDesk629bot)
+
+</div>
+
+---
+
+## 🚀 What is DropDesk?
+
+**DropDesk** is a frictionless, Telegram-native digital commerce Mini App. No account registration, no external checkout redirects, and no waiting—browse, pay with **Telegram Stars**, and receive your software licenses, digital tools, and curated asset packs **instantly inside Telegram**.
+
+**DropDesk** 是一款专为 Telegram 生态打造的原生数字商品自动发货平台。无需注册账号、无需跳转外部网页，直接在电报内使用 **Telegram Stars** 一键支付，**24 小时全自动秒发卡密与数字资源**。
+
+---
+
+## ✨ Key Features / 核心特性
+
+- ⚡ **Zero-Friction Checkout**: Native Telegram Mini App experience—open and buy in seconds.
+- ⭐ **Telegram Stars Native**: Safe, instant payments backed directly by Telegram.
+- 🤖 **24/7 Automated Delivery**: Instant fulfillment for software keys, desktop tools, and digital packs.
+- 🌐 **Bilingual Interface**: Seamless English & Chinese support out of the box.
+- 💸 **Official Affiliate Program**: Join our Telegram Affiliate Program directly in the bot and earn Stars commission on every referral!
+
+---
+
+## 💰 Earn with DropDesk (Affiliate Program / 分销返佣)
+
+Have a Telegram channel, group, or audience?  
+Open **[@DropDesk629bot](https://t.me/DropDesk629bot)** → Tap the bot profile → Join the **Official Telegram Affiliate Program** to get your unique referral link. Telegram handles all tracking and automatic Stars payouts!
+
+拥有电报频道、社群或私域流量？点击进入 **[@DropDesk629bot](https://t.me/DropDesk629bot)** 主页即可加入官方联盟推广计划，生成专属链接，躺赚 Telegram Stars 自动分账佣金。
+
+---
+
+## 🔗 Quick Links / 快速入口
+
+- **Telegram Bot & Mini App**: [@DropDesk629bot](https://t.me/DropDesk629bot)
+- **Web Portal**: [bubu629.github.io/dropdesk](https://bubu629.github.io/dropdesk/)
+
+---
+<sub>Keywords: Telegram Mini App, Telegram Stars Store, Digital Goods, Auto Delivery Bot, TON Ecosystem, SaaS Licenses, Telegram 自动发货, 电报数字商店</sub>
